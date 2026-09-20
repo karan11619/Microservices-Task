@@ -1,4 +1,8 @@
 # Microservices Containerization Assessment
+Repository
+
+GitHub Repository:
+https://github.com/karan11619/Microservices-Task
 
 ## Overview
 
@@ -150,20 +154,20 @@ http://localhost:3000/users
 
 ### Docker Images Build
 
-![Docker Build](screenshots/01-docker-build.png)
+![Docker Build](Microservices/screentshots/01-docker-build.png)
 
 ### All Containers Running
 
-![Containers Running](screenshots/02-containers-running.png)
+![Containers Running](Microservices/screentshots/02-containers-running.png)
 
 ### Service Health Checks
 
-![Health Checks](screenshots/03-health-checks.png)
+![Health Checks](Microservices/screentshots/03-health-checks.png)
 
 ### Gateway Communication
 
-![Gateway Communication](screenshots/04-gateway-communication.png)
+![Gateway Communication](Microservices/screentshots/04-gateway-communication.png)
 
 ### Docker Network
 
-![Docker Network](screenshots/05-docker-network.png)
+![Docker Network](Microservices/screentshots/05-docker-network.png)
